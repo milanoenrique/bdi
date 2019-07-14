@@ -1,0 +1,712 @@
+﻿
+[2019-05-22 21:26:34.27730700] transaction successfully
+[2019-05-22 21:27:03.29164600] transaction successfully
+[2019-05-22 21:27:36.80378700] transaction successfully
+[2019-05-22 21:29:06.54339500] transaction successfully
+[2019-05-22 21:29:33.09169600] transaction successfully
+[2019-05-22 21:30:12.94590500] transaction successfully
+[2019-05-22 21:30:32.07151300] transaction successfully
+[2019-05-22 21:31:54.78138700] transaction successfully
+[2019-05-22 21:32:18.44304700] transaction successfully
+[2019-05-22 21:37:12.02007200] transaction successfully
+[2019-05-22 21:43:00.52677300] transaction successfully
+[2019-05-22 21:45:24.83993500] transaction successfully
+[2019-05-22 21:46:40.79439100] transaction successfully
+[2019-05-22 21:47:19.15761500] transaction successfully
+[2019-05-22 21:47:31.49919200] transaction successfully
+[2019-05-22 21:48:09.36790700] transaction successfully
+[2019-05-22 21:50:13.13864700] transaction successfully
+[2019-05-22 21:51:30.64821700] transaction successfully
+[2019-05-22 21:54:08.19841200] transaction successfully
+[2019-05-22 21:59:04.18907800] transaction successfully
+[2019-05-22 22:05:07.26714800] transaction successfully
+[2019-05-23 14:54:10.01911900] "Insert_Request: transaction successfully
+[2019-05-23 14:57:47.30042400] "Insert_Request: transaction successfully
+[2019-05-23 14:59:16.43101500] "Insert_Request: transaction successfully
+[2019-05-23 15:16:48.65704800] "Insert_Request: transaction successfully
+[2019-05-23 15:21:56.75738700] "Insert_Request: transaction successfully
+[2019-05-23 15:24:06.44025300] "Insert_Request: transaction successfully
+[2019-05-23 15:24:49.11134900] "Insert_Request: transaction successfully
+[2019-05-23 15:25:38.19012100] "Insert_Request: transaction successfully
+[2019-05-23 15:26:39.37243200] "Insert_Request: transaction successfully
+[2019-05-23 15:27:51.82477700] "Insert_Request: transaction successfully
+[2019-05-23 15:30:57.21581300] "Insert_Request: transaction successfully
+[2019-05-23 15:32:38.07798100] "Insert_Request: transaction successfully
+[2019-05-23 15:34:31.07294700] "Insert_Request: transaction successfully
+[2019-05-23 15:34:31.14689100] Insert_Parts: 7ERROR:  invalid input syntax for integer: "undefined"
+[2019-05-23 15:34:47.04707300] "Insert_Request: transaction successfully
+[2019-05-23 15:34:47.11403300] Insert_Parts: 7ERROR:  invalid input syntax for integer: "undefined"
+[2019-05-23 15:36:34.08270000] "Insert_Request: transaction successfully
+[2019-05-23 15:36:34.14511800] Insert_Parts: 7ERROR:  invalid input syntax for integer: "undefined"
+[2019-05-23 15:39:20.42323200] "Insert_Request: transaction successfully
+[2019-05-23 15:39:20.48590000] Insert_Parts: 7ERROR:  invalid input syntax for integer: "undefined"
+[2019-05-23 15:40:50.36277900] "Insert_Request: transaction successfully
+[2019-05-23 15:40:50.43769500] "Insert_Parts: transaction successfully
+[2019-05-23 15:49:54.47179700] "Insert_Request: transaction successfully
+[2019-05-23 15:49:54.54144100] "Insert_Parts: transaction successfully
+[2019-05-23 15:54:41.99629300] "Insert_Request: transaction successfully
+[2019-05-23 15:54:42.08289700] "Insert_Parts: transaction successfully
+[2019-05-23 15:59:34.79485900] transaction successfully
+[2019-05-23 16:15:42.36814000] "Insert_Request: transaction successfully
+[2019-05-23 16:15:42.44287800] "Insert_Parts: transaction successfully
+[2019-05-23 16:20:26.23303000] transaction successfully
+[2019-05-23 16:21:46.47192300] transaction successfully
+[2019-05-23 16:22:24.08450800] transaction successfully
+[2019-05-23 16:22:33.85545900] transaction successfully
+[2019-05-23 16:22:49.54265100] transaction successfully
+[2019-05-23 18:13:36.66012700] "Insert_Request: transaction successfully
+[2019-05-23 18:13:36.73994000] "Insert_Parts: transaction successfully
+[2019-05-23 18:14:22.95717000] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:14:39.89521100] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:18:12.27672700] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:25:26.51707300] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:32:29.62720000] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:33:14.06907600] "Insert_Request: transaction successfully
+[2019-05-23 18:33:14.16367700] "Insert_Parts: transaction successfully
+[2019-05-23 18:33:31.61097800] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:33:48.82998900] transaction successfully
+[2019-05-23 18:34:22.44146500] transaction successfully
+[2019-05-23 18:36:41.37195000] "Insert_Request: transaction successfully
+[2019-05-23 18:36:41.44143100] "Insert_Parts: transaction successfully
+[2019-05-23 18:36:54.09233300] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:37:22.12828800] 7server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+[2019-05-23 18:51:20.79275400] transaction successfully
+[2019-05-23 18:51:30.69249900] transaction successfully
+[2019-05-23 18:52:21.28498400] transaction successfully
+[2019-05-23 18:52:32.32928700] transaction successfully
+[2019-05-23 18:53:10.38116200] transaction successfully
+[2019-05-23 18:53:34.87619400] transaction successfully
+[2019-05-23 18:53:56.68281800] transaction successfully
+[2019-05-23 18:54:14.61115600] transaction successfully
+[2019-05-23 18:54:45.13853600] transaction successfully
+[2019-05-23 19:03:45.65040900] transaction successfully
+[2019-05-23 19:04:54.98225900] transaction successfully
+[2019-05-23 19:18:28.24588700] transaction successfully
+[2019-05-23 19:18:50.02657000] transaction successfully
+[2019-05-23 19:27:00.62104500] transaction successfully
+[2019-05-23 19:30:32.94782800] transaction successfully
+[2019-05-23 19:33:31.19440300] transaction successfully
+[2019-05-23 19:35:29.26479700] transaction successfully
+[2019-05-23 19:39:03.20932300] transaction successfully
+[2019-05-23 20:03:46.53583500] transaction successfully
+[2019-05-24 06:26:58.88841600] "Insert_Request: transaction successfully
+[2019-05-24 06:26:58.96445300] "Insert_Parts: transaction successfully
+[2019-05-24 06:28:42.90704900] transaction successfully
+[2019-05-24 06:29:04.86401800] transaction successfully
+[2019-05-24 06:29:28.56294800] transaction successfully
+[2019-05-24 06:30:24.97736800] transaction successfully
+[2019-05-24 06:33:04.07439400] transaction successfully
+[2019-05-24 06:34:57.95208800] transaction successfully
+[2019-05-24 06:38:05.02108200] transaction successfully
+[2019-05-24 06:40:56.86493200] transaction successfully
+[2019-05-24 06:41:22.36539300] transaction successfully
+[2019-05-24 06:44:53.88834200] transaction successfully
+[2019-05-24 06:45:29.08594200] transaction successfully
+[2019-05-24 06:46:51.61547400] transaction successfully
+[2019-05-24 06:48:17.73168200] transaction successfully
+[2019-05-24 06:49:20.81527900] transaction successfully
+[2019-05-24 06:50:50.40975200] transaction successfully
+[2019-05-24 06:51:01.86996300] transaction successfully
+[2019-05-24 06:53:21.85451100] transaction successfully
+[2019-05-24 06:54:08.42168500] transaction successfully
+[2019-05-24 06:56:52.23172200] transaction successfully
+[2019-05-24 07:04:18.60016700] transaction successfully
+[2019-05-24 07:06:39.60589100] transaction successfully
+[2019-05-24 07:07:40.41553500] transaction successfully
+[2019-05-24 07:08:33.93974600] transaction successfully
+[2019-05-24 07:09:11.62073900] transaction successfully
+[2019-05-24 07:10:01.04808200] transaction successfully
+[2019-05-24 07:10:43.35427900] transaction successfully
+[2019-05-24 07:11:16.00841900] transaction successfully
+[2019-05-24 07:12:10.74739500] transaction successfully
+[2019-05-24 07:14:03.79890000] transaction successfully
+[2019-05-24 07:14:41.05390700] transaction successfully
+[2019-05-24 07:15:07.79782800] transaction successfully
+[2019-05-24 07:15:59.56641600] transaction successfully
+[2019-05-24 07:18:21.16585800] transaction successfully
+[2019-05-24 07:19:11.86064100] transaction successfully
+[2019-05-24 07:19:42.76020000] transaction successfully
+[2019-05-24 07:20:16.65206300] transaction successfully
+[2019-05-24 07:20:59.96339700] transaction successfully
+[2019-05-24 07:21:46.99294600] transaction successfully
+[2019-05-24 07:22:01.83972800] transaction successfully
+[2019-05-24 07:22:48.57296100] transaction successfully
+[2019-05-24 07:24:00.73379300] transaction successfully
+[2019-05-24 07:27:42.65159700] transaction successfully
+[2019-05-24 07:28:03.54412100] transaction successfully
+[2019-05-24 07:29:03.99223400] transaction successfully
+[2019-05-24 07:35:47.93500200] transaction successfully
+[2019-05-24 07:36:44.21635700] transaction successfully
+[2019-05-24 07:37:12.54329200] transaction successfully
+[2019-05-24 07:37:23.87517900] transaction successfully
+[2019-05-24 07:38:15.37634100] transaction successfully
+[2019-05-24 07:38:30.24578500] transaction successfully
+[2019-05-24 07:40:33.78407300] transaction successfully
+[2019-05-24 07:45:13.20234700] transaction successfully
+[2019-05-24 08:14:01.39562100] transaction successfully
+[2019-05-24 08:14:13.95904900] transaction successfully
+[2019-05-24 08:14:55.90901400] transaction successfully
+[2019-05-24 08:15:26.35113500] transaction successfully
+[2019-05-24 08:16:58.68086400] transaction successfully
+[2019-05-24 08:17:19.97098900] transaction successfully
+[2019-05-24 08:18:43.14961300] transaction successfully
+[2019-05-24 08:51:19.90285600] transaction successfully
+[2019-05-24 09:06:36.94444200] "Insert_Request: transaction successfully
+[2019-05-24 09:06:37.01715000] "Insert_Parts: transaction successfully
+[2019-05-24 09:20:47.06870600] transaction successfully
+[2019-05-24 10:24:25.54285800] transaction successfully
+[2019-05-24 10:31:07.55166500] transaction successfully
+[2019-05-24 10:31:24.25407900] transaction successfully
+[2019-05-24 10:33:46.12320200] "Insert_Request: transaction successfully
+[2019-05-24 10:33:46.20425100] "Insert_Parts: transaction successfully
+[2019-05-24 10:34:21.81584300] "Insert_Request: transaction successfully
+[2019-05-24 10:34:21.89391200] "Insert_Parts: transaction successfully
+[2019-05-24 10:38:46.54580700] "Insert_Request: transaction successfully
+[2019-05-24 10:38:46.62420300] "Insert_Parts: transaction successfully
+[2019-05-24 10:43:15.76667800] "Insert_Request: transaction successfully
+[2019-05-24 10:43:15.85806600] "Insert_Parts: transaction successfully
+[2019-05-24 10:44:01.98193200] "Insert_Request: transaction successfully
+[2019-05-24 10:44:02.05622300] "Insert_Parts: transaction successfully
+[2019-05-24 10:46:55.86777400] "Insert_Request: transaction successfully
+[2019-05-24 10:46:55.95170600] "Insert_Parts: transaction successfully
+[2019-05-24 10:51:02.69877700] "Insert_Request: transaction successfully
+[2019-05-24 10:51:02.81466000] "Insert_Parts: transaction successfully
+[2019-05-24 10:52:41.39819100] "Insert_Request: transaction successfully
+[2019-05-24 10:52:41.47256000] "Insert_Parts: transaction successfully
+[2019-05-24 10:53:18.83302900] "Insert_Request: transaction successfully
+[2019-05-24 10:53:18.90568700] "Insert_Parts: transaction successfully
+[2019-05-24 10:54:57.65290600] "Insert_Request: transaction successfully
+[2019-05-24 10:54:57.74458800] "Insert_Parts: transaction successfully
+[2019-05-24 10:58:00.03554100] "Insert_Request: transaction successfully
+[2019-05-24 10:58:00.11691000] "Insert_Parts: transaction successfully
+[2019-05-24 10:59:29.64420200] "Insert_Request: transaction successfully
+[2019-05-24 10:59:29.71423000] "Insert_Parts: transaction successfully
+[2019-05-24 11:02:20.09677500] "Insert_Request: transaction successfully
+[2019-05-24 11:03:04.13618600] "Insert_Request: transaction successfully
+[2019-05-24 11:03:34.60836400] "Insert_Request: transaction successfully
+[2019-05-24 11:03:34.68542000] "Insert_Parts: transaction successfully
+[2019-05-24 11:04:23.49271300] "Insert_Request: transaction successfully
+[2019-05-24 11:04:23.57193700] "Insert_Parts: transaction successfully
+[2019-05-24 11:04:46.26709900] "Insert_Request: transaction successfully
+[2019-05-24 11:04:46.36501300] "Insert_Parts: transaction successfully
+[2019-05-24 11:06:29.55342900] "Insert_Request: transaction successfully
+[2019-05-24 11:06:29.62299600] "Insert_Parts: transaction successfully
+[2019-05-24 11:06:56.53437600] "Insert_Request: transaction successfully
+[2019-05-24 11:06:56.62583600] "Insert_Parts: transaction successfully
+[2019-05-24 11:07:57.12836900] "Insert_Request: transaction successfully
+[2019-05-24 11:07:57.21646900] "Insert_Parts: transaction successfully
+[2019-05-24 11:08:37.92318800] "Insert_Request: transaction successfully
+[2019-05-24 11:08:38.02121000] "Insert_Parts: transaction successfully
+[2019-05-24 11:09:59.66755600] "Insert_Request: transaction successfully
+[2019-05-24 11:09:59.74260100] "Insert_Parts: transaction successfully
+[2019-05-24 11:10:24.86778600] "Insert_Request: transaction successfully
+[2019-05-24 11:10:24.95488400] "Insert_Parts: transaction successfully
+[2019-05-24 11:12:11.56530100] "Insert_Request: transaction successfully
+[2019-05-24 11:12:11.66975200] "Insert_Parts: transaction successfully
+[2019-05-24 11:20:55.26524600] "Insert_Request: transaction successfully
+[2019-05-24 11:20:55.35767900] "Insert_Parts: transaction successfully
+[2019-05-24 11:22:25.39482300] "Insert_Request: transaction successfully
+[2019-05-24 11:22:25.50217600] "Insert_Parts: transaction successfully
+[2019-05-24 11:23:14.34020400] "Insert_Request: transaction successfully
+[2019-05-24 11:23:14.41781400] "Insert_Parts: transaction successfully
+[2019-05-24 11:23:54.51809300] "Insert_Request: transaction successfully
+[2019-05-24 11:23:54.59643700] "Insert_Parts: transaction successfully
+[2019-05-24 11:24:21.34222400] "Insert_Request: transaction successfully
+[2019-05-24 11:24:21.44346000] "Insert_Parts: transaction successfully
+[2019-05-24 11:24:48.03849900] "Insert_Request: transaction successfully
+[2019-05-24 11:24:48.14227000] "Insert_Parts: transaction successfully
+[2019-05-24 11:26:37.20334700] "Insert_Request: transaction successfully
+[2019-05-24 11:26:37.28328500] "Insert_Parts: transaction successfully
+[2019-05-24 11:27:26.91489800] "Insert_Request: transaction successfully
+[2019-05-24 11:27:27.00460800] "Insert_Parts: transaction successfully
+[2019-05-24 11:31:09.13855000] "Insert_Request: transaction successfully
+[2019-05-24 11:31:09.25131100] "Insert_Parts: transaction successfully
+[2019-05-24 11:35:23.87020600] "Insert_Request: transaction successfully
+[2019-05-24 11:35:23.98002500] "Insert_Parts: transaction successfully
+[2019-05-24 11:37:32.22252800] "Insert_Request: transaction successfully
+[2019-05-24 11:37:32.30597200] "Insert_Parts: transaction successfully
+[2019-05-24 11:39:27.58433600] "Insert_Request: transaction successfully
+[2019-05-24 11:39:27.67087100] "Insert_Parts: transaction successfully
+[2019-05-24 11:43:49.40931000] "Insert_Request: transaction successfully
+[2019-05-24 11:43:49.48511800] "Insert_Parts: transaction successfully
+[2019-05-24 11:44:39.80393400] "Insert_Request: transaction successfully
+[2019-05-24 11:44:39.89190400] "Insert_Parts: transaction successfully
+[2019-05-24 11:45:08.86920600] "Insert_Request: transaction successfully
+[2019-05-24 11:45:08.96298700] "Insert_Parts: transaction successfully
+[2019-05-24 11:46:05.48054700] "Insert_Request: transaction successfully
+[2019-05-24 11:46:05.58760900] "Insert_Parts: transaction successfully
+[2019-05-24 11:47:01.64565000] "Insert_Request: transaction successfully
+[2019-05-24 11:47:01.72792400] "Insert_Parts: transaction successfully
+[2019-05-24 11:51:08.58710400] "Insert_Request: transaction successfully
+[2019-05-24 11:51:08.67156500] "Insert_Parts: transaction successfully
+[2019-05-24 12:01:57.18501700] "Insert_Request: transaction successfully
+[2019-05-24 12:01:57.26765100] "Insert_Parts: transaction successfully
+[2019-05-24 12:02:27.90402900] "Insert_Request: transaction successfully
+[2019-05-24 12:02:27.99460500] "Insert_Parts: transaction successfully
+[2019-05-24 12:02:47.85721600] "Insert_Request: transaction successfully
+[2019-05-24 12:02:47.96831000] "Insert_Parts: transaction successfully
+[2019-05-24 12:04:04.10619200] "Insert_Request: transaction successfully
+[2019-05-24 12:04:04.23245100] "Insert_Parts: transaction successfully
+[2019-05-24 12:05:40.60634200] "Insert_Request: transaction successfully
+[2019-05-24 12:05:40.70436600] "Insert_Parts: transaction successfully
+[2019-05-24 12:06:18.45214100] "Insert_Request: transaction successfully
+[2019-05-24 12:06:18.54687200] "Insert_Parts: transaction successfully
+[2019-05-24 12:06:44.13597300] "Insert_Request: transaction successfully
+[2019-05-24 12:06:44.24256500] "Insert_Parts: transaction successfully
+[2019-05-24 12:07:13.52587900] "Insert_Request: transaction successfully
+[2019-05-24 12:07:13.77129200] "Insert_Parts: transaction successfully
+[2019-05-24 12:08:17.29508100] "Insert_Request: transaction successfully
+[2019-05-24 12:08:17.45468600] "Insert_Parts: transaction successfully
+[2019-05-24 12:08:42.29407600] "Insert_Request: transaction successfully
+[2019-05-24 12:08:42.41611200] "Insert_Parts: transaction successfully
+[2019-05-24 12:09:36.91789400] "Insert_Request: transaction successfully
+[2019-05-24 12:09:36.99923600] "Insert_Parts: transaction successfully
+[2019-05-24 12:13:04.40672600] "Insert_Request: transaction successfully
+[2019-05-24 12:13:04.50801600] "Insert_Parts: transaction successfully
+[2019-05-24 12:13:33.07362000] "Insert_Request: transaction successfully
+[2019-05-24 12:13:33.15733200] "Insert_Parts: transaction successfully
+[2019-05-24 12:14:19.78435100] "Insert_Request: transaction successfully
+[2019-05-24 12:14:19.86563700] "Insert_Parts: transaction successfully
+[2019-05-24 12:16:19.88990700] "Insert_Request: transaction successfully
+[2019-05-24 12:16:19.98401200] "Insert_Parts: transaction successfully
+[2019-05-24 12:20:30.75870100] "Insert_Request: transaction successfully
+[2019-05-24 12:20:30.84318100] "Insert_Parts: transaction successfully
+[2019-05-24 12:21:30.12404200] "Insert_Request: transaction successfully
+[2019-05-24 12:21:30.20632100] "Insert_Parts: transaction successfully
+[2019-05-24 12:22:09.93423100] "Insert_Request: transaction successfully
+[2019-05-24 12:22:10.00768600] "Insert_Parts: transaction successfully
+[2019-05-24 12:23:02.69358300] "Insert_Request: transaction successfully
+[2019-05-24 12:23:02.77256600] "Insert_Parts: transaction successfully
+[2019-05-24 12:23:41.90599400] "Insert_Request: transaction successfully
+[2019-05-24 12:23:41.98761200] "Insert_Parts: transaction successfully
+[2019-05-24 12:25:55.96737400] "Insert_Request: transaction successfully
+[2019-05-24 12:25:56.05339500] "Insert_Parts: transaction successfully
+[2019-05-24 12:55:33.64298400] transaction successfully
+[2019-05-24 12:55:55.10989600] transaction successfully
+[2019-05-24 12:56:26.63551900] transaction successfully
+[2019-05-24 13:11:28.51686500] "Insert_Request: transaction successfully
+[2019-05-24 13:11:28.58748800] "Insert_Parts: transaction successfully
+[2019-05-24 13:12:34.00798900] transaction successfully
+[2019-05-24 14:50:55.52561400] "Insert_Request: transaction successfully
+[2019-05-24 14:50:55.57020000] "Insert_Request: transaction successfully
+[2019-05-24 14:50:55.60291500] "Insert_Parts: transaction successfully
+[2019-05-24 14:50:55.65479400] "Insert_Parts: transaction successfully
+[2019-05-24 14:51:59.05931000] 7ERROR:  null value in column "part" violates not-null constraint
+DETAIL:  Failing row contains (105635, null, 0, 0, 0.00, 1, 2019-05-24 16:51:59.0525-04, admin, 1, 14355, 2019-05-24 16:51:59.0525-04, null, 0, null).
+CONTEXT:  SQL statement "INSERT INTO parts (idrequest,seg,description,quantity, ord, date_of_delivery, comment_parts, appuser,part)   select 
+					idrequest,seg,description,quantity, ord, date_of_delivery, comment_parts, appuser,part 
+			from json_populate_recordset(null::parts, innewparts)"
+PL/pgSQL function json_update_req_parts(integer,json,character varying,character varying,character varying,character varying,character varying,character varying,character varying,character varying,character varying,json) line 13 at SQL statement
+[2019-05-24 14:53:11.34244500] "Insert_Request: transaction successfully
+[2019-05-24 14:53:11.42683700] "Insert_Parts: transaction successfully
+[2019-05-24 14:53:11.42918800] "Insert_Parts: transaction successfully
+[2019-05-24 14:53:39.89431300] transaction successfully
+[2019-05-24 14:54:50.28706900] "Insert_Request: transaction successfully
+[2019-05-24 14:54:50.35996800] "Insert_Parts: transaction successfully
+[2019-05-24 14:54:50.36165000] "Insert_Parts: transaction successfully
+[2019-05-24 14:55:03.23509200] transaction successfully
+[2019-05-24 14:56:19.30568300] transaction successfully
+[2019-05-24 14:56:49.29005000] transaction successfully
+[2019-05-24 14:57:31.89584500] 7ERROR:  null value in column "part" violates not-null constraint
+DETAIL:  Failing row contains (105638, null, 9, 9, 9.00, 1, 2019-05-24 16:57:31.891476-04, admin, 1, 14363, 2019-05-24 16:57:31.891476-04, null, 9, null).
+CONTEXT:  SQL statement "INSERT INTO parts (idrequest,seg,description,quantity, ord, date_of_delivery, comment_parts, appuser,part)   select 
+					idrequest,seg,description,quantity, ord, date_of_delivery, comment_parts, appuser,part 
+			from json_populate_recordset(null::parts, innewparts)"
+PL/pgSQL function json_update_req_parts(integer,json,character varying,character varying,character varying,character varying,character varying,character varying,character varying,character varying,character varying,json) line 13 at SQL statement
+[2019-05-24 14:57:59.74171800] transaction successfully
+[2019-05-24 14:58:10.80893200] transaction successfully
+[2019-05-24 15:13:44.88469800] transaction successfully
+[2019-05-24 15:14:17.43287000] transaction successfully
+[2019-05-24 15:24:06.55546500] "Insert_Request: transaction successfully
+[2019-05-24 15:24:06.62977900] "Insert_Parts: transaction successfully
+[2019-05-24 15:24:06.63140800] "Insert_Parts: transaction successfully
+[2019-05-24 15:24:42.76923000] transaction successfully
+[2019-05-24 15:25:00.54526900] transaction successfully
+[2019-05-24 15:25:52.07216800] transaction successfully
+[2019-05-24 16:17:12.79135100] "Insert_Request: transaction successfully
+[2019-05-24 16:17:12.91585400] "Insert_Parts: transaction successfully
+[2019-05-24 16:25:49.18190800] "Insert_Request: transaction successfully
+[2019-05-24 16:25:49.28879800] "Insert_Parts: transaction successfully
+[2019-05-24 16:47:23.78952800] "Insert_Request: transaction successfully
+[2019-05-24 16:47:23.87555700] "Insert_Parts: transaction successfully
+[2019-05-25 14:19:40.79258800] transaction successfully
+[2019-05-25 14:20:32.84636000] transaction successfully
+[2019-05-25 14:20:59.07772900] transaction successfully
+[2019-05-25 14:24:32.55310600] transaction successfully
+[2019-05-25 14:24:53.59238000] transaction successfully
+[2019-05-25 14:38:42.26429000] transaction successfully
+[2019-05-25 14:39:36.66804000] transaction successfully
+[2019-05-25 14:40:36.12684300] "Insert_Request: transaction successfully
+[2019-05-25 14:40:36.19593600] "Insert_Parts: transaction successfully
+[2019-05-25 14:40:48.99406000] transaction successfully
+[2019-05-25 14:43:47.49349000] transaction successfully
+[2019-05-25 14:46:21.78677600] transaction successfully
+[2019-05-25 14:55:17.76314500] transaction successfully
+[2019-05-25 14:55:59.98731700] transaction successfully
+[2019-05-25 14:57:15.98396400] transaction successfully
+[2019-05-25 14:57:40.01131400] transaction successfully
+[2019-05-25 14:58:57.84253500] transaction successfully
+[2019-05-25 15:00:27.22578600] "Insert_Request: transaction successfully
+[2019-05-25 15:00:27.29544700] "Insert_Parts: transaction successfully
+[2019-05-25 15:00:47.30050000] transaction successfully
+[2019-05-25 15:26:27.43451100] transaction successfully
+[2019-05-25 15:26:53.90123000] transaction successfully
+[2019-05-25 15:27:33.67249000] transaction successfully
+[2019-05-25 15:27:46.58342100] transaction successfully
+[2019-05-25 15:27:57.51387300] transaction successfully
+[2019-05-25 15:28:06.45847000] transaction successfully
+[2019-05-25 15:28:19.22939300] transaction successfully
+[2019-05-25 15:40:33.53479300] "Insert_Request: transaction successfully
+[2019-05-25 15:40:33.60958600] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61090000] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61225600] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61357100] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61468700] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61562800] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61658000] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61781000] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61880200] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:40:33.61970400] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.42307200] "Insert_Request: transaction successfully
+[2019-05-25 15:45:02.47444000] "Insert_Request: transaction successfully
+[2019-05-25 15:45:02.51197600] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.51303400] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.51455300] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.51614100] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.51756500] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.51904300] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.52066000] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.52245500] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.52421800] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.55853500] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.55989900] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.56163500] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.56411200] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.56594500] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.56761800] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.56897100] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.57052100] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:02.57213600] Insert_Parts: 7ERROR:  value too long for type character varying(250)
+CONTEXT:  SQL statement "INSERT INTO parts(
+            idrequest, part, seg, description, quantity, ord, appuser, date_of_delivery, comment_parts)
+    VALUES (inIdrequest, inPart, inSeg, inDescription, inQuantity, inOrd, inAppuser, indateofdelivery, incommentparts)"
+PL/pgSQL function request_parts_insert(integer,integer,character varying,character varying,numeric,character varying,character varying,date,character varying) line 3 at SQL statement
+[2019-05-25 15:45:37.45473200] "Insert_Request: transaction successfully
+[2019-05-25 15:45:37.52709400] "Insert_Parts: transaction successfully
+[2019-05-25 15:46:45.30423700] transaction successfully
+[2019-05-25 15:49:03.68959200] transaction successfully
+[2019-05-25 15:50:22.73710900] transaction successfully
+[2019-05-25 15:50:52.92949300] transaction successfully
+[2019-05-25 15:53:52.33066100] transaction successfully
+[2019-05-25 15:54:36.04674000] transaction successfully
+[2019-05-25 15:55:27.44791400] transaction successfully
+[2019-05-25 15:56:25.88374800] transaction successfully
+[2019-05-25 15:59:51.44763900] transaction successfully
+[2019-05-25 16:00:18.36046600] transaction successfully
+[2019-05-25 16:01:05.59905600] transaction successfully
+[2019-05-25 16:01:52.60740800] transaction successfully
+[2019-05-25 16:03:28.12033000] transaction successfully
+[2019-05-25 16:03:52.21815100] transaction successfully
+[2019-05-25 16:04:25.46063200] transaction successfully
+[2019-05-25 16:06:01.18979400] transaction successfully
+[2019-05-25 16:07:39.20286400] transaction successfully
+[2019-05-25 16:07:49.16410800] transaction successfully
+[2019-05-26 16:07:39.67838900] transaction successfully
+[2019-05-26 16:11:24.42556700] transaction successfully
+[2019-05-26 16:11:59.64426700] transaction successfully
+[2019-05-26 16:13:32.66991700] transaction successfully
+[2019-05-26 16:14:03.58321300] transaction successfully
+[2019-05-26 16:17:11.27818000] transaction successfully
+[2019-05-26 16:24:46.47885100] transaction successfully
+[2019-05-26 16:25:22.67431400] transaction successfully
+[2019-05-26 16:25:58.03130800] transaction successfully
+[2019-05-26 16:26:35.01317300] transaction successfully
+[2019-05-26 16:28:58.05549700] transaction successfully
+[2019-05-26 16:30:58.13512900] transaction successfully
+[2019-05-26 16:33:14.42746300] transaction successfully
+[2019-05-26 16:34:06.75731400] transaction successfully
+[2019-05-26 16:34:56.07895600] transaction successfully
+[2019-05-26 16:35:52.32239800] transaction successfully
+[2019-05-26 16:36:30.11752000] transaction successfully
+[2019-05-26 16:38:10.60091100] transaction successfully
+[2019-05-26 16:39:08.21247600] transaction successfully
+[2019-05-26 16:40:05.45742600] transaction successfully
+[2019-05-26 16:45:07.52700000] transaction successfully
+[2019-05-26 16:45:52.57270700] transaction successfully
+[2019-05-26 16:46:38.25132300] transaction successfully
+[2019-05-26 16:47:46.84848100] transaction successfully
+[2019-05-26 16:48:13.88794200] transaction successfully
+[2019-05-26 16:49:46.61054000] transaction successfully
+[2019-05-26 17:09:35.19412600] transaction successfully
+[2019-05-26 17:11:02.45844300] transaction successfully
+[2019-05-26 17:13:11.42943700] transaction successfully
+[2019-05-26 17:14:22.49189200] transaction successfully
+[2019-05-26 17:16:11.10996800] transaction successfully
+[2019-05-26 17:18:30.07912800] transaction successfully
+[2019-05-26 17:19:21.44877900] transaction successfully
+[2019-05-28 11:59:29.63813800] transaction successfully
+[2019-06-03 07:52:18.70793800] "Insert_Request: transaction successfully
+[2019-06-03 07:52:18.82615700] "Insert_Parts: transaction successfully
+[2019-06-03 08:31:29.61551500] transaction successfully
+[2019-06-03 08:31:58.61552800] transaction successfully
+[2019-06-03 08:32:18.77243700] transaction successfully
+[2019-06-03 08:32:40.58669600] transaction successfully
+[2019-06-03 11:12:56.61376900] transaction successfully
+[2019-06-03 11:13:21.69126300] transaction successfully
+[2019-06-03 11:13:35.54839400] transaction successfully
+[2019-06-03 11:13:57.07506600] transaction successfully
+[2019-06-03 11:16:13.41393000] "Insert_Request: transaction successfully
+[2019-06-03 11:16:13.48434200] "Insert_Parts: transaction successfully
+[2019-06-03 11:16:55.32587800] transaction successfully
+[2019-06-03 11:27:43.21967300] "Insert_Request: transaction successfully
+[2019-06-03 11:27:43.29557400] "Insert_Parts: transaction successfully
+[2019-06-03 11:29:11.14094300] transaction successfully
+[2019-06-03 11:40:23.27725500] "Insert_Request: transaction successfully
+[2019-06-03 11:40:23.36847100] "Insert_Parts: transaction successfully
+[2019-06-03 11:40:52.00064100] transaction successfully
+[2019-06-03 11:50:19.41724000] transaction successfully
+[2019-06-03 11:55:41.22823400] transaction successfully
+[2019-06-03 11:56:48.53981000] "Insert_Request: transaction successfully
+[2019-06-03 11:56:48.60642100] "Insert_Parts: transaction successfully
+[2019-06-03 11:57:13.32045900] transaction successfully
+[2019-06-03 12:07:51.22848300] "Insert_Request: transaction successfully
+[2019-06-03 12:07:51.30906500] "Insert_Parts: transaction successfully
+[2019-06-03 12:08:44.95078100] "Insert_Request: transaction successfully
+[2019-06-03 12:08:44.99967800] "Insert_Request: transaction successfully
+[2019-06-03 12:08:45.04897400] "Insert_Parts: transaction successfully
+[2019-06-03 12:08:45.09921600] "Insert_Parts: transaction successfully
+[2019-06-03 12:11:38.76540700] "Insert_Request: transaction successfully
+[2019-06-03 12:11:38.81329700] "Insert_Request: transaction successfully
+[2019-06-03 12:11:38.92340200] "Insert_Parts: transaction successfully
+[2019-06-03 12:11:38.93089100] "Insert_Parts: transaction successfully
+[2019-06-03 12:12:51.01004400] "Insert_Request: transaction successfully
+[2019-06-03 12:12:51.09560900] "Insert_Parts: transaction successfully
+[2019-06-03 12:18:52.84900800] transaction successfully
+[2019-06-03 12:24:24.89039000] transaction successfully
+[2019-06-03 12:24:48.05140900] transaction successfully
+[2019-06-03 12:44:14.83725300] transaction successfully
+[2019-06-03 12:55:12.81175200] transaction successfully
+[2019-06-03 12:55:30.79993500] transaction successfully
+[2019-06-03 12:55:58.79896100] transaction successfully
+[2019-06-03 12:56:09.29080000] transaction successfully
+[2019-06-03 12:56:21.28149800] transaction successfully
+[2019-06-03 13:44:50.59340300] "Insert_Request: transaction successfully
+[2019-06-03 13:44:50.67818800] "Insert_Parts: transaction successfully
+[2019-06-04 18:09:45.29171900] "Insert_Request: transaction successfully
+[2019-06-04 18:09:45.36810500] "Insert_Parts: transaction successfully
+[2019-06-04 18:16:28.51610600] 7ERROR:  function json_update_req_parts(unknown, json, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, json) does not exist
+LINE 1: SELECT * FROM json_update_req_parts($1,$2::json,$3,$4,$5,$6,...
+                      ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+[2019-06-04 18:16:42.76619900] 7ERROR:  function json_update_req_parts(unknown, json, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, json) does not exist
+LINE 1: SELECT * FROM json_update_req_parts($1,$2::json,$3,$4,$5,$6,...
+                      ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+[2019-06-04 18:17:09.22818100] 7ERROR:  function json_update_req_parts(unknown, json, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, json) does not exist
+LINE 1: SELECT * FROM json_update_req_parts($1,$2::json,$3,$4,$5,$6,...
+                      ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+[2019-06-04 18:20:59.66472600] transaction successfully
+[2019-06-04 18:21:19.32883800] transaction successfully
+[2019-06-04 18:22:52.78456300] transaction successfully
+[2019-06-04 18:23:23.40069200] transaction successfully
+[2019-06-04 18:25:42.05436700] "Insert_Request: transaction successfully
+[2019-06-04 18:25:42.18259700] "Insert_Parts: transaction successfully
+[2019-06-04 18:43:16.82668700] transaction successfully
+[2019-06-04 18:43:26.83416300] transaction successfully
+[2019-06-04 19:09:52.13094200] "Insert_Request: transaction successfully
+[2019-06-04 19:09:52.23602000] "Insert_Parts: transaction successfully
+[2019-06-04 19:19:00.33696700] transaction successfully
+[2019-06-04 19:19:13.76490900] transaction successfully
+[2019-06-04 19:19:28.83800900] transaction successfully
+[2019-06-04 19:43:49.10752700] transaction successfully
+[2019-06-04 19:47:05.92904800] "Insert_Request: transaction successfully
+[2019-06-04 19:47:05.99769200] "Insert_Parts: transaction successfully
+[2019-06-04 19:47:27.98098300] transaction successfully
+[2019-06-04 19:47:38.62711600] transaction successfully
+[2019-06-04 19:50:46.58761500] "Insert_Request: transaction successfully
+[2019-06-04 19:50:46.65408300] "Insert_Parts: transaction successfully
+[2019-06-04 19:51:21.47891500] "Insert_Request: transaction successfully
+[2019-06-04 19:51:21.54455100] "Insert_Parts: transaction successfully
+[2019-06-04 19:59:25.01594400] "Insert_Request: transaction successfully
+[2019-06-04 19:59:25.07773600] "Insert_Parts: transaction successfully
+[2019-06-04 19:59:49.25135000] "Insert_Request: transaction successfully
+[2019-06-04 19:59:49.31590500] "Insert_Parts: transaction successfully
+[2019-06-04 20:00:12.05989500] "Insert_Request: transaction successfully
+[2019-06-04 20:00:12.13587800] "Insert_Parts: transaction successfully
+[2019-06-04 20:05:30.35664700] "Insert_Request: transaction successfully
+[2019-06-04 20:05:30.42498100] "Insert_Parts: transaction successfully
+[2019-06-04 20:05:48.43191000] transaction successfully
+[2019-06-04 21:22:09.46784000] transaction successfully
+[2019-06-08 20:13:12.72988600] transaction successfully
+[2019-06-08 20:14:07.30379100] "Insert_Request: transaction successfully
+[2019-06-08 20:14:07.37135400] "Insert_Parts: transaction successfully
+[2019-06-08 20:15:30.64465100] transaction successfully
+[2019-06-08 20:17:05.84626000] transaction successfully
+[2019-06-08 20:17:23.72372800] transaction successfully
+[2019-06-08 20:18:11.02086900] transaction successfully
+[2019-06-08 20:31:03.55473100] "Insert_Request: transaction successfully
+[2019-06-08 20:31:03.62367800] "Insert_Parts: transaction successfully
+[2019-06-08 20:32:59.81730800] "Insert_Request: transaction successfully
+[2019-06-08 20:32:59.89308300] "Insert_Parts: transaction successfully
+[2019-06-08 20:33:32.55881400] "Insert_Request: transaction successfully
+[2019-06-08 20:33:32.62084800] "Insert_Parts: transaction successfully
+[2019-06-08 20:34:02.58202800] "Insert_Request: transaction successfully
+[2019-06-08 20:34:02.65224700] "Insert_Parts: transaction successfully
+[2019-06-08 20:35:19.81981900] "Insert_Request: transaction successfully
+[2019-06-08 20:35:19.90629100] "Insert_Parts: transaction successfully
+[2019-06-08 20:35:45.82898300] transaction successfully
+[2019-06-08 21:06:19.26798500] "Insert_Request: transaction successfully
+[2019-06-08 21:06:19.34056300] "Insert_Parts: transaction successfully
+[2019-06-08 21:07:05.11376300] transaction successfully
+[2019-06-08 21:19:11.10341800] transaction successfully
+[2019-06-08 21:24:15.84223500] "Insert_Request: transaction successfully
+[2019-06-08 21:24:15.91744600] "Insert_Parts: transaction successfully
+[2019-06-08 21:24:50.62431800] "Insert_Request: transaction successfully
+[2019-06-08 21:24:50.69238100] "Insert_Parts: transaction successfully
+[2019-06-08 21:25:52.22346400] transaction successfully
+[2019-06-16 20:25:43.71438600] transaction successfully
+[2019-06-16 22:06:52.50838700] "Insert_Request: transaction successfully
+[2019-06-16 22:06:52.61305000] "Insert_Parts: transaction successfully
+[2019-06-16 22:20:55.31163800] transaction successfully
+[2019-06-16 22:21:21.81503800] transaction successfully
+[2019-06-16 22:21:31.78085300] transaction successfully
+[2019-06-16 22:21:41.43365700] transaction successfully
+[2019-06-16 22:21:57.03464100] transaction successfully
+[2019-06-16 22:22:54.78074600] transaction successfully
+[2019-06-16 22:23:34.15056800] transaction successfully
+[2019-06-16 22:25:15.61750600] transaction successfully
+[2019-06-17 04:28:33.61263800] "Insert_Request: transaction successfully
+[2019-06-17 04:28:33.68627200] "Insert_Parts: transaction successfully
+[2019-06-17 04:28:33.68771600] "Insert_Parts: transaction successfully
+[2019-06-17 04:29:29.51874400] transaction successfully
+[2019-06-17 04:35:29.22265700] "Insert_Request: transaction successfully
+[2019-06-17 04:35:29.30071400] "Insert_Parts: transaction successfully
+[2019-06-17 04:35:29.30254000] "Insert_Parts: transaction successfully
+[2019-06-17 04:35:59.65324500] transaction successfully
+[2019-06-17 04:36:42.27221600] transaction successfully
+[2019-06-17 14:21:47.25925300] transaction successfully

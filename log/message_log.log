@@ -1,0 +1,45 @@
+﻿[2019-03-05 14:45:07.25075600] From:+15873184641 To: 584124392805 Sms:RO: nueva-parte-sms- SEG: 3 -  - Est. Delivery: 2019-03-28 - Status: ordered
+[2019-03-05 14:48:55.07339400] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 1 -  - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 14:48:57.69316800] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 2 -  - Est. Delivery: 2019-03-06 - Status: ordered
+[2019-03-05 14:48:58.72983100] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 3 -  - Est. Delivery: 2019-03-07 - Status: ordered
+[2019-03-05 14:51:23.39853500] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 1 - parte1 recibida - Est. Delivery: 2019-03-05 - Status: received
+[2019-03-05 14:52:00.19158000] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 2 - parte 2 cancelada - Status: canceled
+[2019-03-05 14:54:17.84557600] From:+15873184641 To: 584124392805 Sms:RO: test-sms-2- SEG: 3 - Parte 3 recibida - Status: received
+[2019-03-05 14:56:32.50278100] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 -  - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 14:57:36.60741800] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 - bujia ordenada - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 14:58:25.24498800] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 - polea ordenada - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 14:59:02.04549200] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 -  - Status: received
+[2019-03-05 15:00:12.48627300] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 - bujia cancelada - Status: canceled
+[2019-03-05 15:00:24.46853600] From:+15873184641 To: 584124392805 Sms:RO: test-sms-3- SEG: 1 - polea cancelada - Status: canceled
+[2019-03-05 15:15:18.22922700] From:+15873184641 To: 584124392805 Sms:RO: test-sms-5- SEG: 1 - ordenado - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 15:16:21.72210000] From:+15873184641 To: 584124392805 Sms:RO: test-pf3- SEG: 1 -  - Est. Delivery: 2019-03-12 - Status: quote
+[2019-03-05 15:17:02.27867600] From:+15873184641 To: 584124392805 Sms:RO: test-sms-5- SEG: 1 - ordenado - Est. Delivery: 2019-03-05 - Status: quote
+[2019-03-05 15:18:09.41845100] From:+15873184641 To: 584124392805 Sms:RO: lklklklrrfff- SEG: 1 - quote - Est. Delivery: 2019-03-12 - Status: quote
+[2019-03-05 15:20:29.87230900] From:+15873184641 To: 584124392805 Sms:RO: test-pdf6- SEG: 1 - Quote - Est. Delivery: 2019-03-19 - Status: quote
+[2019-03-05 15:33:06.92152900] From:+15873184641 To: 584124392805 Sms:RO: test-quote-1- SEG: 1 - pieza ordenada - Est. Delivery: 2019-03-19 - Status: ordered
+[2019-03-05 15:33:33.33453200] From:+15873184641 To: 584124392805 Sms:RO: test-quote-1- SEG: 1 - pieza quote - Est. Delivery: 2019-03-19 - Status: quote
+[2019-03-05 15:51:57.54225300] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 1 - 1 - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 15:51:59.98536600] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 2 -  - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 15:52:00.90766900] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 3 -  - Status: quote
+[2019-03-05 15:52:20.44096800] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 1 - 1 - Status: received
+[2019-03-05 15:52:21.45927600] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 2 -  - Status: quote
+[2019-03-05 15:53:53.40775500] From:+15873184641 To: 584124392805 Sms:RO: TEST-QUOTE-3- SEG: 1 -  - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 15:54:05.76369500] From:+15873184641 To: 584124392805 Sms:RO: TEST-QUOTE-3- SEG: 2 -  - Status: received
+[2019-03-05 15:54:15.92796100] From:+15873184641 To: 584124392805 Sms:RO: TEST-QUOTE-3- SEG: 3 -  - Status: quote
+[2019-03-05 15:54:43.75577300] From:+15873184641 To: 584124392805 Sms:RO: TEST-QUOTE-3- SEG: 1 -  - Status: quote
+[2019-03-05 15:55:43.77506600] From:+13347314677 To: 584124392805 Sms:Operation timed out after 60000 milliseconds with 0 bytes received
+[2019-03-05 16:04:22.20741800] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 1 -  - Est. Delivery: 2019-03-05 - Status: ordered
+[2019-03-05 16:04:24.59027500] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 2 -  - Est. Delivery: 2019-03-06 - Status: ordered
+[2019-03-05 16:04:25.54502100] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 3 -  - Est. Delivery: 2019-03-07 - Status: ordered
+[2019-03-05 16:04:42.80279600] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 3 -  - Status: quote
+[2019-03-05 16:05:38.87031700] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 2 -  - Status: quote
+[2019-03-05 16:06:09.68867500] From:+15873184641 To: 584124392805 Sms:RO: test-quote-4- SEG: 1 - cancelado - Status: canceled
+[2019-03-05 16:29:24.36855600] From:+15873184641 To: 584124392805 Sms:RO: test-quote- SEG: 1 -  - Est. Delivery: 2019-03-20 - Status: ordered
+[2019-03-05 16:29:48.09453900] From:+15873184641 To: 584124392805 Sms:RO: test-quote- SEG: 1 - recibido - Status: received
+[2019-03-05 16:31:21.44327800] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 1 -  - Est. Delivery: 2019-03-19 - Status: ordered
+[2019-03-05 16:31:21.97166500] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 2 -  - Status: received
+[2019-03-05 16:31:22.47558600] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 3 -  - Status: quote
+[2019-03-05 16:31:32.91233700] From:+15873184641 To: 584124392805 Sms:RO: test-quote2- SEG: 1 -  - Status: received
+[2019-03-05 17:24:00.80131700] From:+15873184641 To: 584124392805 Sms:RO: test-todas-recibidas- SEG: 1 -  - Status: received
+[2019-03-05 17:24:01.35539000] From:+15873184641 To: 584124392805 Sms:RO: test-todas-recibidas- SEG: 2 -  - Status: received
+[2019-03-05 17:24:01.85076600] From:+15873184641 To: 584124392805 Sms:RO: test-todas-recibidas- SEG: 3 -  - Status: received
